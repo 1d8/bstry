@@ -1,0 +1,2 @@
+# bstry
+Nimlang Wiper Malware
