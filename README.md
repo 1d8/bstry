@@ -23,3 +23,5 @@ Todo:
 # VT-Scan
 
 ![](https://i.imgur.com/w2carx1.png)
+
+[Hybrid Analysis Link](https://www.hybrid-analysis.com/sample/3af6ec0e13bf8c3702768c5104c238218047c22f6de42332f926892baff3e65a?environmentId=300)
