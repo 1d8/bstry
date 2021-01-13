@@ -15,3 +15,11 @@ This malware was coded to work only on Linux machines as of now
 
 Todo:
 1. Input error handling.
+
+# Compilation
+
+`nim compile <filename>`
+
+# VT-Scan
+
+![](https://i.imgur.com/w2carx1.png)
